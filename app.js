@@ -1,7 +1,8 @@
-/* AMIGO SECRETO - Jhenifer Correa Vasquez - 1148697471 */
+/* AMIGO SECRETO - Jhenifer Correa Vasquez*/
 
 //Crear un array para almacenar los nombres
 let amigos = [];
+console.log(amigos);
 
 //Implementa una función para agregar amigos
 function agregarAmigo() {
@@ -15,7 +16,7 @@ function agregarAmigo() {
         document.getElementById('input-name').setAttribute('Escribe un nombre','true');
     } else {
         //Si el nombre es válido, actualizar el array de amigos
-        amigos = nuevoAmigo.push();
+        amigos.push(nuevoAmigo);
         console.log(amigos);
         //Limpiar el campo de entrada
         document.getElementById('input-name').setAttribute('Escribe un nombre','true');
