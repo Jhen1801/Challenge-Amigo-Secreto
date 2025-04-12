@@ -39,4 +39,5 @@ JavaScript
 ✨ **Autor**
 Jhenifer Correa - [Jhen1801]
 
+📌 **Imagen de referencia**
 ![image](https://github.com/user-attachments/assets/fab4123c-0a7f-4c0c-8ca0-3fc26568e9b5)
